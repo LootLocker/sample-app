@@ -1,0 +1,3 @@
+[submodule "Packages/LootLockerSDK"]
+	path = Packages/LootLockerSDK
+	url = https://github.com/Cradaptive/unitylootlockerpackage.git
